@@ -120,9 +120,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C09485901D62B27800748C0B /* MQTTClient.h in Headers */,
 				C09485AD1D62B28900748C0B /* MQTTSessionManager.h in Headers */,
 				C09485A91D62B28900748C0B /* MQTTPersistence.h in Headers */,
-				C09485901D62B27800748C0B /* MQTTClient.h in Headers */,
 				C09485A51D62B28900748C0B /* MQTTEncoder.h in Headers */,
 				C09485A71D62B28900748C0B /* MQTTMessage.h in Headers */,
 				C09485A31D62B28900748C0B /* MQTTDecoder.h in Headers */,

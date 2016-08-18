@@ -17,4 +17,13 @@ FOUNDATION_EXPORT const unsigned char MQTTClientVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <MQTTClient/PublicHeader.h>
 
 #import <MQTTClient/MQTTSession.h>
+#import <MQTTClient/MQTTSessionManager.h>
+
 #import <MQTTClient/MQTTMessage.h>
+#import <MQTTClient/MQTTPersistence.h>
+
+#import <MQTTClient/MQTTDecoder.h>
+#import <MQTTClient/MQTTEncoder.h>
+
+
+
